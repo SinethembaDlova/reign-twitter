@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/SinethembaDlova/reign-twitter/issues"
   },
-  "homepage": "https://github.com/SinethembaDlova/reign-twitter#readme"
+  "homepage": "https://github.com/SinethembaDlova/reign-twitter#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
 }
